@@ -1,3 +1,4 @@
+package Exercicios01;
 // Calculo Media Escolar
 
 import java.util.Scanner;
