@@ -1,2 +1,2 @@
-# mesttra 1000Devs
+# Curso 1000 Devs da mesttra.
 
